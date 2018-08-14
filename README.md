@@ -1,25 +1,9 @@
-# README
+# Coffee Cup Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fun Ruby on Rails project to set up a techincal blog where each post can be read entirely in 15 minutes with your coffee cup. I take a 10 minutes coffee break and I look for posts, blogs, website that I can cover in 10-15 minutes while I can also finish my coffee. 
 
-Things you may want to cover:
+* The posts would be mostly for people in creative field trying to learn programming language. ( including portfolio building from scratch without  paying a lot of $$$). This will keep in mind for beginner and expert. ( Hide and Display some context which is not obvious for computer geeks )
 
-* Ruby version
+* Include links if its a part of big series. Focus would be to have a finished subproject. Challnege is to finish something working within 15 minutes of work.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# coffeecupblog
